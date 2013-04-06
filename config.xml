@@ -8,7 +8,7 @@
   <!-- versionCode is optional and Android only -->
 
   <name>Pigeon</name>
-  <icon src="icon.png" width="180" height="155"></icon>
+  <icon src="pigeon.png" width="180" height="155"></icon>
   <description>
     Pigeon email notifier
   </description>
